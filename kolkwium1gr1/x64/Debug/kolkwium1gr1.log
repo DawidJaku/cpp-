@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+D:\c++\kolkwium1gr1\Źródło.cpp(52,18): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+D:\c++\kolkwium1gr1\Źródło.cpp(57,19): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  kolkwium1gr1.vcxproj -> D:\c++\kolkwium1gr1\x64\Debug\kolkwium1gr1.exe
